@@ -1,0 +1,31 @@
+*  
+    { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    font-family: sans-serif;
+}
+.google{
+    text-align: center;
+    margin-top: 25vh;
+    font-family: sans-serif;
+    font-size: 5em ;
+}
+input{
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 30%;
+    background: #f1f1f1;
+    margin-left: 34vw;
+    margin-top: 7vh;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+}
